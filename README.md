@@ -20,13 +20,13 @@ V2: 3/28/2019
 
 Estimated time spent working since last iteration: 3 hours
 
-Notable features adjusted:
--Changed layout of website (will be single page scroller)
--Added scroller with three images (need to be adjusted to images of me eventually)
--Created "About Me" section
--Added drop-down toggler as well as navigation buttons
--Created progress bars for technical skills
--Figured out how to adjust image size on the scroller (this actually took much longer than I expected)
--Started "Projects" section
+Notable features adjusted:  
+-Changed layout of website (will be single page scroller)  
+-Added scroller with three images (need to be adjusted to images of me eventually)  
+-Created "About Me" section  
+-Added drop-down toggler as well as navigation buttons  
+-Created progress bars for technical skills  
+-Figured out how to adjust image size on the scroller (this actually took much longer than I expected)  
+-Started "Projects" section  
 
 Total time spent working on project: 5 hours
