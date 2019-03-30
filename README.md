@@ -36,8 +36,10 @@ V3: 3/29/2019
 Estimated time working since last iteration: 1.5 hours
 
 Notable features adjusted:  
--Basically finished "My Projects" section  
+-Basically finished "My Projects" section (in terms of layout & content)  
 -Need to modify "College Schoolwork." Current text is inappropriate  
 -Need to modify home carousel images  
+-Need to add navigation from projects to Github  
+-Need to decide what kind of hover I want for the projects  
 
 Total time spent working on project: 6.5 hours
