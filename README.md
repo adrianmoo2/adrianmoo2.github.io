@@ -33,11 +33,11 @@ Notable features adjusted:
 
 V3: 3/29/2019
 
+Estimated time working since last iteration: 1.5 hours
+
 Notable features adjusted:  
 -Basically finished "My Projects" section  
 -Need to modify "College Schoolwork." Current text is inappropriate  
 -Need to modify home carousel images  
-
-Estimated time working since last iteration: 1.5 hours
 
 Total time spent working on project: 6.5 hours
