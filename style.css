@@ -178,3 +178,19 @@
     cursor:pointer;
     transition: 0.7s
 }
+
+h1
+{
+    text-align:center;
+    padding-bottom: 10px;
+}
+
+h1::after
+{
+    content: '';
+    background: #0000FF;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 20px auto 5px;
+}
