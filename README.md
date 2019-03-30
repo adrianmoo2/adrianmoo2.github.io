@@ -7,11 +7,11 @@ V1: 3/27/2019.
 
 Estimated time spent working since last iteration: 2 hours
 
-Notable features adjusted:
--Created logo
--Laid down background image (Lower Antelope Valley Canyon)
--Created center text & two buttons (with hover functionality)
--Created top-right navigation buttons (not functional yet)
+Notable features adjusted:  
+-Created logo  
+-Laid down background image (Lower Antelope Valley Canyon)  
+-Created center text & two buttons (with hover functionality)  
+-Created top-right navigation buttons (not functional yet)  
 
 
 ![3-29-2019](https://user-images.githubusercontent.com/14877762/55218013-1afdfd80-51be-11e9-88e7-195d3a4eda2a.png)
