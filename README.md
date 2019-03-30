@@ -29,4 +29,15 @@ Notable features adjusted:
 -Figured out how to adjust image size on the scroller (this actually took much longer than I expected)  
 -Started "Projects" section  
 
-Total time spent working on project: 5 hours
+![3-29-2019](https://user-images.githubusercontent.com/14877762/55273860-09842680-528e-11e9-9e89-84e0c600ea4b.png)
+
+V3: 3/29/2019
+
+Estimated time working since last iteration: 1.5 hours
+
+Notable features adjusted:  
+-Basically finished "My Projects" section  
+-Need to modify "College Schoolwork." Current text is inappropriate  
+-Need to modify home carousel images  
+
+Total time spent working on project: 6.5 hours
