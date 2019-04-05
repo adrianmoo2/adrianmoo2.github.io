@@ -54,7 +54,7 @@ V4: 4/4/2019
 
 Estimated time working since last iteration: 4 hours
 
-Notable features adjusted:
+Notable features adjusted:  
 -Started and finished "Get in Touch" section; need to link button to my email  
 -Started footer; added Github and Linkedin logo links and added cool light-up animation on hover  
 -Started making navigation buttons to footer  
