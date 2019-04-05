@@ -3,7 +3,7 @@ My future personal website. Major WIP
 
 Estimated time to project completion: 25 hours
 
-Total time spent working on project: 6.5 hours
+Total time spent working on project: 10.5 hours
 
 ![3-28-2019](https://user-images.githubusercontent.com/14877762/55217822-ac20a480-51bd-11e9-81b3-9a9b4c22fab9.png)
 
@@ -46,3 +46,21 @@ Notable features adjusted:
 -Need to add navigation from projects to Github  
 -Need to decide what kind of hover I want for the projects  
 
+![4-4-2019](https://user-images.githubusercontent.com/14877762/55649841-f646ee80-5798-11e9-919e-786cda4ce123.PNG)
+
+![4-4-2019 (2)](https://user-images.githubusercontent.com/14877762/55649857-fe9f2980-5798-11e9-893e-5b4a87f5b9a9.PNG)
+
+V4: 4/4/2019
+
+Estimated time working since last iteration: 4 hours
+
+Notable features adjusted:
+-Started and finished "Get in Touch" section; need to link button to my email  
+-Started footer; added Github and Linkedin logo links and added cool light-up animation on hover  
+-Started making navigation buttons to footer  
+-Modified "College Schoolwork" inappropriate text  
+-Moved "Projects" section to before the "About" section; need to modify the layout and background  
+-Started Adjusting "About" section heavily; nearly finished with layout and design  
+-Started making 3d portrait flip for portrait in "About" section  
+-Added flip animation for "Skills" section (animate.css cdn)  
+-Added wow.js to delay flip animation for "Skills" section until user sees content pop into view. Then, delays .5s to animation flip
