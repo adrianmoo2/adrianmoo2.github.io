@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700');
+    
 *
 {
     margin: 0;
@@ -196,6 +198,42 @@
 
 .text-light-blue {
     color: rgba(34, 167, 240, 1);
+}
+
+.photo-card{
+    transform-style: preserve-3d;
+    perspective: 600px;
+    transition: 0.5s;
+}
+
+.photo-card-back-details h2{
+    color: #efefef;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.photo-card-front{
+    background: #000;
+    backface-visibility: hidden;
+    transform: rotateX(0deg);
+    transition: 0.5s;
+}
+
+.photo-card:hover .photo-card-front
+{
+    transform: rotateX(-180deg);
+}
+
+.photo-card-back{
+    position: absolute;
+    top: 0px;
+    background: #000;
+    backface-visibility: hidden;
+    transform: rotateX(180deg);
+    transition: 0.5s;
+}
+
+.photo-card:hover .photo-card-back{
+    transform: rotateX(0deg);
 }
 
 /*---- Get in touch section ---*/
