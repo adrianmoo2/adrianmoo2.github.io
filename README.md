@@ -61,4 +61,6 @@ Notable features adjusted:
 -Modified "College Schoolwork" inappropriate text  
 -Moved "Projects" section to before the "About" section; need to modify the layout and background  
 -Started Adjusting "About" section heavily; nearly finished with layout and design  
--Started making 3d portrait flip for portrait in "About" section
+-Started making 3d portrait flip for portrait in "About" section  
+-Added flip animation for "Skills" section (animate.css cdn)  
+-Added wow.js to delay flip animation for "Skills" section until user sees content pop into view. Then, delays .5s to animation flip
