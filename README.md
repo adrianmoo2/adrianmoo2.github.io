@@ -69,7 +69,7 @@ Notable features adjusted:
 
 V5: 4/5/2019
 
-Estimated time working since last iteration: 1 hour
+Estimated time working since last iteration: 1 hour  
 -Nearly finished 3d portrait flip (need to change text margins on back of portrait)  
 -Updated "About" section text and font-family (will probably need to change this as well)  
 
