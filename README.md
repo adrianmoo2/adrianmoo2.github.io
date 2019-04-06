@@ -64,3 +64,13 @@ Notable features adjusted:
 -Started making 3d portrait flip for portrait in "About" section  
 -Added flip animation for "Skills" section (animate.css cdn)  
 -Added wow.js to delay flip animation for "Skills" section until user sees content pop into view. Then, delays .5s to animation flip
+
+![4-5-2019](https://user-images.githubusercontent.com/14877762/55664606-74c97d80-57e5-11e9-8135-062fe62480b0.PNG)
+
+V5: 4/5/2019
+
+Estimated time working since last iteration: 1 hour
+-Nearly finished 3d portrait flip (need to change text margins on back of portrait)  
+-Updated "About" section text and font-family (will probably need to change this as well)  
+
+
