@@ -3,7 +3,7 @@ My future personal website. Major WIP
 
 Estimated time to project completion: 25 hours
 
-Total time spent working on project: 11.5 hours
+Total time spent working on project: 12.5 hours
 
 ![3-28-2019](https://user-images.githubusercontent.com/14877762/55217822-ac20a480-51bd-11e9-81b3-9a9b4c22fab9.png)
 
@@ -72,5 +72,15 @@ V5: 4/5/2019
 Estimated time working since last iteration: 1 hour  
 -Nearly finished 3d portrait flip (need to change text margins on back of portrait)  
 -Updated "About" section text and font-family (will probably need to change this as well)  
+
+![4-6-2019](https://user-images.githubusercontent.com/14877762/55679311-13c1a880-58be-11e9-8825-7d65951797d5.PNG)
+
+V6: 4/6/2019
+
+Estimated time working since last iteration: 1 hour  
+-Updated "About Me" text contents  
+-Fixed Skills and Interests layout  
+-Updated Skills and Interests boxes  
+-Think I want to have a skewed border for Skills and Interests. Not sure what colors would be good contrast, though.
 
 
