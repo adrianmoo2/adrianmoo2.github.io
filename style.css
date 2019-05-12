@@ -183,7 +183,7 @@
 #projects h1
 {
     text-align: center;
-    color: #000; !important;
+    color: #000 !important;
     padding-bottom: 10px;
 }
 
@@ -262,7 +262,7 @@
 #about h1
 {
     text-align: center;
-    color: #efefef; !important;
+    color: #efefef !important;
     padding-bottom: 10px;
 }
 
@@ -582,7 +582,7 @@
 
 .footer-menu-one ul {
     margin: 0px;
-    padding; 0px !important;
+    padding: 0px !important;
 }
 
 .footer-menu-one ul li{
