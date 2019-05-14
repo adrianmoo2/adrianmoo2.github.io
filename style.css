@@ -470,27 +470,29 @@
     color: #777;
 }
 
-.contact-form
+.responsive
 {
-    padding: 15px;
+    height: 375px;
+    position: relative;
 }
 
-.form-control
+.responsive iframe
 {
-    border-radius: 0 !important;
-    border: none !important;
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }
 
-::placeholder
+.follow.follow-first
 {
-    color: #999 !important;
+    margin-top: 60px;
 }
 
 .follow
 {
     background: #fff;
     padding: 10px;
-    margin: 15px;
+    margin: 25px;
 }
 
 .contact-info .fas
