@@ -26,28 +26,32 @@ The cool thing I made to say cool things about me, a cool guy
 
 ### Getting started
 
-1. Fork the repository, then clone it locally
+1. If you don't have it, install Node.js using the link in the "Installation" section.
+
+2. Clone the repository
+
+3. Change directory into the "akiyowind.github.io" folder, then run the command `browser-sync start --server --files "**/**`. A tab should pop up into your default browser with the site.
+
+4. Make modifications to the code, then watch them show up live!
 
 ## Usage
 
-*Give your users a sense of the workflow for using your project/tool.*
-*For a website this might include code for running locally.*
-*For an API this might include method and parameter specs.*
+This code is mainly for use by me for my personal website. However, I have no problems with other aspiring SWE's molding functionalities from my website into their own. Just please don't plagiarize my website completely.
 
 ## Demo
 
-*Grab a simple block of code that makes use of your project/tool and paste it here.*
+![6-2-2019](https://user-images.githubusercontent.com/14877762/58768260-6aa9ce00-854d-11e9-8b58-74166f25e7e5.png)
+
+**Other progress photos in the "Progress-photos" directory**
 
 ## Team
 
-* *Name, Organization - role or tasks worked on*
-
-*Add a "contributors" section if you've incorporated pull requests.*
+* Me
 
 ## Errors and bugs
 
 If something is not behaving intuitively, it is a bug and should be reported.
-Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
+Report it here by creating an issue: https://github.com/adrianmoo2/adrianmoo2.github.io/issues
 
 Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
 
