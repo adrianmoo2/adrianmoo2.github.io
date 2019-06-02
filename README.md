@@ -22,7 +22,7 @@ The cool thing I made to say cool things about me, a cool guy
 * Mac OS X
 * Ubuntu
 * Windows (if applicable)
-* Browser-sync
+* [Browser-sync and Node.js](https://www.browsersync.io/)
 
 ### Getting started
 
