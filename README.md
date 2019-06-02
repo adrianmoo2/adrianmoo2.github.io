@@ -1,88 +1,64 @@
-# akiyowind.github.io
-My future personal website. Major WIP
+# Website thing
 
-Estimated time to project completion: 25 hours
+The cool thing I made to say cool things about me, a cool guy
 
-Total time spent working on project: 12.5 hours
+## Languages / Frameworks used
 
-![3-28-2019](https://user-images.githubusercontent.com/14877762/55217822-ac20a480-51bd-11e9-81b3-9a9b4c22fab9.png)
+* HTML5
+* CSS3
+* Javascript
+* JQuery
+* Bootstrap
 
-V1: 3/27/2019.
+### Dependencies
 
-Estimated time spent working since last iteration: 2 hours
+* [Bootstrap](https://www.bootstrapcdn.com/)
+* [Animate.css cdn](https://cdnjs.com/libraries/animate.css/)
+* [Wow.js cdn](https://cdnjs.com/libraries/wow)
+* [Smooth-scroll.js](https://github.com/cferdinandi/smooth-scroll)
 
-Notable features adjusted:  
--Created logo  
--Laid down background image (Lower Antelope Valley Canyon)  
--Created center text & two buttons (with hover functionality)  
--Created top-right navigation buttons (not functional yet)  
+### Installation
 
+* Mac OS X
+* Ubuntu
+* Windows (if applicable)
+* Browser-sync
 
-![3-29-2019](https://user-images.githubusercontent.com/14877762/55218013-1afdfd80-51be-11e9-88e7-195d3a4eda2a.png)
+### Getting started
 
-V2: 3/28/2019
+1. Fork the repository, then clone it locally
 
-Estimated time spent working since last iteration: 3 hours
+## Usage
 
-Notable features adjusted:  
--Changed layout of website (will be single page scroller)  
--Added scroller with three images (need to be adjusted to images of me eventually)  
--Created "About Me" section  
--Added drop-down toggler as well as navigation buttons  
--Created progress bars for technical skills  
--Figured out how to adjust image size on the scroller (this actually took much longer than I expected)  
--Started "Projects" section  
+*Give your users a sense of the workflow for using your project/tool.*
+*For a website this might include code for running locally.*
+*For an API this might include method and parameter specs.*
 
-![3-29-2019](https://user-images.githubusercontent.com/14877762/55273860-09842680-528e-11e9-9e89-84e0c600ea4b.png)
+## Demo
 
-V3: 3/29/2019
+*Grab a simple block of code that makes use of your project/tool and paste it here.*
 
-Estimated time working since last iteration: 1.5 hours
+## Team
 
-Notable features adjusted:  
--Basically finished "My Projects" section (in terms of layout & content)  
--Need to modify "College Schoolwork." Current text is inappropriate  
--Need to modify home carousel images  
--Need to add navigation from projects to Github  
--Need to decide what kind of hover I want for the projects  
+* *Name, Organization - role or tasks worked on*
 
-![4-4-2019](https://user-images.githubusercontent.com/14877762/55649841-f646ee80-5798-11e9-919e-786cda4ce123.PNG)
+*Add a "contributors" section if you've incorporated pull requests.*
 
-![4-4-2019 (2)](https://user-images.githubusercontent.com/14877762/55649857-fe9f2980-5798-11e9-893e-5b4a87f5b9a9.PNG)
+## Errors and bugs
 
-V4: 4/4/2019
+If something is not behaving intuitively, it is a bug and should be reported.
+Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
 
-Estimated time working since last iteration: 4 hours
+Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
 
-Notable features adjusted:  
--Started and finished "Get in Touch" section; need to link button to my email  
--Started footer; added Github and Linkedin logo links and added cool light-up animation on hover  
--Started making navigation buttons to footer  
--Modified "College Schoolwork" inappropriate text  
--Moved "Projects" section to before the "About" section; need to modify the layout and background  
--Started Adjusting "About" section heavily; nearly finished with layout and design  
--Started making 3d portrait flip for portrait in "About" section  
--Added flip animation for "Skills" section (animate.css cdn)  
--Added wow.js to delay flip animation for "Skills" section until user sees content pop into view. Then, delays .5s to animation flip
+## Patches and pull requests
 
-![4-5-2019](https://user-images.githubusercontent.com/14877762/55664606-74c97d80-57e5-11e9-8135-062fe62480b0.PNG)
+Your patches are welcome. Here's our suggested workflow:
+ 
+* Fork the project.
+* Make your feature addition or bug fix.
+* Send us a pull request with a description of your work. Bonus points for topic branches!
 
-V5: 4/5/2019
+## Copyright and attribution
 
-Estimated time working since last iteration: 1 hour  
-
--Nearly finished 3d portrait flip (need to change text margins on back of portrait)  
--Updated "About" section text and font-family (will probably need to change this as well)  
-
-![4-6-2019](https://user-images.githubusercontent.com/14877762/55679311-13c1a880-58be-11e9-8825-7d65951797d5.PNG)
-
-V6: 4/6/2019
-
-Estimated time working since last iteration: 1 hour  
-
--Updated "About Me" text contents  
--Fixed Skills and Interests layout  
--Updated Skills and Interests boxes  
--Think I want to have a skewed border for Skills and Interests. Not sure what colors would be good contrast, though.
-
-
+Copyright (c) 2018 Adrian Tran. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
