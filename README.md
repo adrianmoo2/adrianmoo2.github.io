@@ -36,7 +36,7 @@ The cool thing I made to say cool things about me, a cool guy
 
 ## Usage
 
-This code is mainly for use by me for my personal website. However, I have no problems with other aspiring SWE's molding functionalities from my website into their own. Just please don't plagiarize my website completely.
+This code is mainly for use by me for my personal website. However, I have no problems with other aspiring SWE's molding functionalities from my website into their own. Just please don't plagiarize my website completely, as limited learning is done that way.
 
 ## Demo
 
@@ -65,4 +65,4 @@ Your patches are welcome. Here's our suggested workflow:
 
 ## Copyright and attribution
 
-Copyright (c) 2018 Adrian Tran. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
+Copyright (c) 2018 Adrian Tran. Released under the [MIT License](https://github.com/adrianmoo2/adrianmoo2.github.io/blob/master/LICENSE).
