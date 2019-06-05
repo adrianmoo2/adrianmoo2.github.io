@@ -13,10 +13,22 @@
 /*------------Nav bar--------*/
 #nav-bar
 {
-    position: sticky;
     top: 0;
     z-index: 10;
+
 }
+
+.navbar
+{
+    -webkit-transition: all 0.6s ease-out;
+    -moz-transition: all 0.6s ease-out;
+    -o-transition: all 0.6s ease-out;
+    -ms-transition: all 0.6s ease-out;
+    transition: all 0.6s ease-out;
+
+    background: #fff;
+}
+
 
 .navbar-brand img
 {
@@ -38,11 +50,6 @@
 #nav-bar ul li a:hover
 {
     color: #007bff!important;
-}
-
-.navbar
-{
-    background: #fff;
 }
 
 .navbar-toggler
