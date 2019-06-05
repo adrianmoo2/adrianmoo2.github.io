@@ -65,4 +65,4 @@ Your patches are welcome. Here's our suggested workflow:
 
 ## Copyright and attribution
 
-Copyright (c) 2018 Adrian Tran. Released under the [MIT License](https://github.com/adrianmoo2/adrianmoo2.github.io/blob/master/LICENSE).
+Copyright (c) 2019 Adrian Tran. Released under the [MIT License](https://github.com/adrianmoo2/adrianmoo2.github.io/blob/master/LICENSE).
