@@ -15,7 +15,7 @@
 {
     top: 0;
     z-index: 10;
-
+    position: sticky;
 }
 
 .navbar
@@ -28,7 +28,6 @@
 
     background: #fff;
 }
-
 
 .navbar-brand img
 {
@@ -180,6 +179,14 @@
 }
 
 /*--- Projects ----*/
+
+span.anchor {
+    margin-top: -50px; /* height of nav, in this case 54px */
+    display: block;
+    height: 50px; /* height of nav, in this case 54px */
+    visibility: hidden;
+    position: relative;
+}
 
 #projects
 {

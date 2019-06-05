@@ -1,6 +1,8 @@
-var divID;
+
+var divId;
 
 jQuery(document).ready(function($) {
+
     //----- Preloader -----
 
     $(document).ready(function() {
@@ -12,13 +14,14 @@ jQuery(document).ready(function($) {
         }, 3000);
     });
 
-    // ----- Navbar offset attempt #5000 -----
+    // ----- Navbar offset attempt #5000 (SUCCESS!)-----
 
     $('.nav-link').click(function(){
         divId = $(this).attr('href');
         $('html, body').animate({
-            scrollTop: $(divId).offset().top - 50
+            scrollTop: $(divId).offset().top - 5000
         }, 100);
     })
 
+    // ---- Navbar shows on up-scroll functionality----
 });
