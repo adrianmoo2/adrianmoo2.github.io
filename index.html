@@ -3,7 +3,7 @@
   <head>
     <title>Adrian's Portfolio</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
-    <link href = "style.css" rel = "stylesheet">
+    <link href = "./css/style.css" rel = "stylesheet">
 
     <!-- Bootstrap link & scripts -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -16,7 +16,6 @@
     
       <!-- Other Javascript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
-    <script src="js/main.js"></script>
 
     <script>
         var wow = new WOW(
@@ -52,7 +51,7 @@
 
         <!-- Nav bar -->
     <section id = "nav-bar">
-        <nav class="navbar navbar-expand-lg navbar-light">
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top">
         <a class="navbar-brand" href="#beginning"><img src = "../images/logo-blue-transparent-cropped.png" alt="Logo Portrait"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -406,6 +405,7 @@
     <script>
         var scroll = new SmoothScroll('a[href*="#"]');
     </script>
+    <script src="js/main.js"></script>
 
 </body>
 </html>

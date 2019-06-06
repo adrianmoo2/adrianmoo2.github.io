@@ -29,6 +29,11 @@
     background: #fff;
 }
 
+.navbar-hide {
+    pointer-events: none;
+    opacity: 0;
+}
+
 .navbar-brand img
 {
     height: 40px;
