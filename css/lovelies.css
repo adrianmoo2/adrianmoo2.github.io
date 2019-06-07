@@ -27,7 +27,7 @@ body
 .container span.fall
 {
     z-index: 1000;
-    background: #33FFF6;
+    background: #33ADFF;
     transition: 0.2s;
     pointer-events: none;
     animation: fall 2s linear forwards;

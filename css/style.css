@@ -79,7 +79,7 @@
     background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(/images/star-2.png) center center no-repeat;
     background-size: cover;
     height: 100vh;
-    padding: 19rem 2em 0;
+    padding: 23rem 2em 0;
     text-align: center;
 }
 
@@ -184,7 +184,7 @@
 }
 
 #main-header .fa-chevron-down{
-    padding-top: 220px;
+    padding-top: 300px;
     color: #fff;
 }
 
