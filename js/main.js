@@ -16,15 +16,25 @@ jQuery(document).ready(function($) {
     
     // ---- Navbar shows on up-scroll functionality----
 
-    // $(window).scroll(function(e) {
-
-    //     // add/remove class to navbar when scrolling to hide/show
-    //     var scroll = $(window).scrollTop();
-    //     if (scroll >= 150) {
-    //         $('.navbar').addClass("navbar-hide");
-    //     } else {
-    //         $('.navbar').removeClass("navbar-hide");
-    //     }
+    var prevScrollpos = window.pageYOffset;
+    var navClicked = false;
     
-    // });
+    $('.nav-link').click(function() {
+        navClicked = true;
+    })
+
+    $(window).scroll(function(e) {
+        var currentScrollPos = window.pageYOffset;
+        
+        if (!navClicked) {
+            if ((prevScrollpos > currentScrollPos)) {
+                $('.navbar').removeClass("navbar-hide");
+                $('.navbar').addClass("navbar-show");
+            } else {
+                $('.navbar').addClass("navbar-hide");
+            }
+            prevScrollpos = currentScrollPos;
+        }
+        navClicked = false;
+    });
 });
