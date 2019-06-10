@@ -114,6 +114,10 @@
     text-align: left;
 }
 
+.main-header-content p span {
+    padding-left: 4em;
+}
+
 .main-header-side-content{
     position: static;
     background-color: rgba(0,0,0,0.5);
