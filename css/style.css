@@ -297,7 +297,7 @@ span.anchor {
     position: absolute;
     width: 200px;
     left: 10%;
-    top: 40%;
+    top: 35%;
     font-weight: 500;
     text-align: center;
     font-size: 24px;
@@ -307,8 +307,17 @@ span.anchor {
     font-family: 'Alegreya Sans', sans-serif;
 }
 
+.projects-card .subtitle {
+    top: 50%;
+    font-size: 16px;
+}
+
 .projects-card:hover .title {
-    top: 20px;
+    top: 15px;
+}
+
+.projects-card:hover .subtitle {
+    top: 45px;
 }
 
 .projects-card .overlay {
