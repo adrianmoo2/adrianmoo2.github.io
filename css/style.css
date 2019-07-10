@@ -212,8 +212,9 @@ span.anchor {
 #projects h1
 {
     text-align: center;
-    color: #000 !important;
+    color: #444649 !important;
     padding-bottom: 10px;
+    font-weight: 600;
 }
 
 /*--- Underline ----*/
@@ -221,10 +222,10 @@ span.anchor {
 #projects h1::after
 {
     content: '';
-    background: #0000FF;
+    background: #444649;
     display: block;
     height: 3px;
-    width: 170px;
+    width: 120px;
     margin:20px auto 5px;
 }
 
@@ -279,9 +280,9 @@ span.anchor {
     font-family: 'Rubik', sans-serif;
 }
 
-
 .projects-card {
     position: relative;
+    margin-top: 30px;
     width: 250px;
     height: 200px;
 }
@@ -333,7 +334,7 @@ span.anchor {
 
 .projects-card:hover .overlay {
     display: block;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.4);
 }
 
 .projects-card .projects-btn {
@@ -356,7 +357,7 @@ span.anchor {
 }
 
 .projects-card .double.projects-btn {
-    top: 35%;
+    top: 40%;
 }
 
 .projects-card:hover .projects-btn{
@@ -364,7 +365,7 @@ span.anchor {
 }
 
 .double.projects-btn.view-code{
-    top: 55%;
+    top: 60%;
     font-size: 14px;
 }
 
@@ -381,6 +382,7 @@ span.anchor {
 {
     text-align: center;
     color: #efefef !important;
+    font-weight: 600;
     padding-bottom: 10px;
 }
 
@@ -390,7 +392,7 @@ span.anchor {
     background: #efefef;
     display: block;
     height: 3px;
-    width: 170px;
+    width: 120px;
     margin:20px auto 5px;
 }
 
@@ -415,7 +417,6 @@ span.anchor {
     height: auto;
     box-shadow: 8px 15px 25px rgba(0,0,0,.2);
     background: #fff;
-    border: 5px solid #192bc2;
 }
 
 .skill-card p{
@@ -526,15 +527,17 @@ span.anchor {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 10px;
+    color: #444649;
+    font-weight: 600;
 }
 
 #work-together h1::after
 {
     content: '';
-    background: #0000FF;
+    background: #444649;
     display: block;
     height: 3px;
-    width: 250px;
+    width: 120px;
     margin: 20px auto 5px;
 }
 
@@ -565,18 +568,19 @@ span.anchor {
 
 #contact h1
 {
-    color: #000;
+    color: #444649;
     text-align:center;
+    font-weight: 600;
     padding-bottom: 10px;
 }
 
 #contact h1::after
 {
     content: '';
-    background: #0000FF;
+    background: #444649;
     display: block;
     height: 3px;
-    width: 170px;
+    width: 120px;
     margin: 20px auto 5px;
 }
 
