@@ -516,9 +516,24 @@ span.anchor {
 }
 
 .photo-card-back-social-icons a:hover{
-    background: #00bfff;
-    color: #000;
+    color: #fff;
 }
+
+.linkedin-back a{
+    background: #0077B5;
+}
+
+.github-back a{
+    background: #262626;
+}
+
+.facebook-back a {
+    background: #3b5998;
+}
+
+/* .twitter-back a {
+    background: #1da1f2
+} */
 
 /* ------ Work together section----*/
 
