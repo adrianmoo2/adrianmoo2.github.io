@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
             $('body').addClass('loaded');
             setTimeout(function(){
                 $('#loader-wrapper').remove();
-            }, 3000);
+            }, 1000);
         }, 3000);
     });
     
