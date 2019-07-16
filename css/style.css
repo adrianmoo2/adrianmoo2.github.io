@@ -13,6 +13,10 @@
 }
 
 /*------------Nav bar--------*/
+.overflow-wrap {
+    overflow-x: hidden;
+}
+
 #nav-bar
 {
     top: 0;
@@ -80,7 +84,6 @@
 #main-header {
     background-size: cover;
     height: 100vh;
-    overflow-x: hidden;
 }
 
 .canvas {
@@ -146,6 +149,14 @@
 
 .landing-button i {
     padding-left: 10px;
+}
+
+.view-work-anchor {
+    margin-top: 50px; /* height of nav, in this case 54px */
+    display: none;
+    height: 20px;
+    visibility: hidden;
+    position: relative;
 }
 
 /* Old landing page (space theme... too complicated) */
