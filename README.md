@@ -30,7 +30,7 @@ The cool thing I made to say cool things about me, a cool guy
 
 2. Clone the repository
 
-3. Change directory into the "akiyowind.github.io" folder, then run the command `browser-sync start --server --files "**/**`. A tab should pop up into your default browser with the site.
+3. Change directory into the "akiyowind.github.io" folder, then run the command `browser-sync start --server --files "**/**"`. A tab should pop up into your default browser with the site.
 
 4. Make modifications to the code, then watch them show up live!
 
